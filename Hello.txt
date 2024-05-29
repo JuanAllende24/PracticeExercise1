@@ -1,0 +1,4 @@
+Hello, this is Juan Allende's repository.
+I used: nano fileName.txt to add this text.
+And then to get out of the text editor Ctrl + x
+
